@@ -40,17 +40,17 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/vijay-anand-b14bb6230" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/_.vijiii._?igshid=NTc4MTIwNjQ2YQ==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:tvijayanandkkp@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+# <div align="left">
+  # <a href="https://www.linkedin.com/in/vijay-anand-b14bb6230" target="_blank">
+   # <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+ # </a>
+ # <a href="https://instagram.com/_.vijiii._?igshid=NTc4MTIwNjQ2YQ==" target="_blank">
+   # <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+ # </a>
+  # <a href="mailto:tvijayanandkkp@gmail.com" target="_blank">
+  #  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+ # </a>
+# </div>
 
 ###
 
